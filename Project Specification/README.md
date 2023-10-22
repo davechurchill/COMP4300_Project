@@ -2,7 +2,7 @@
 
 ## Project GitHub URL Submission
 
-As soon as you have formed a group for the project and created a GitHub repo, please submit your group GitHub repo URL to the `Group GitHub Repo URL` assignment folder on D2L. This must be done before the due date of the Project Proposal.
+As soon as you have formed a group for the project and created a GitHub repo, please submit your group GitHub repo URL to the `Group GitHub Repo URL` assignment folder on D2L. This must be done before the due date of the Project Proposal. All due dates are specified in the folder name in repo root directory.
 
 ## Marking Scheme
 
