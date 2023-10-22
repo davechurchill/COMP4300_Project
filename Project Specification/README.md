@@ -94,6 +94,7 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
     - [ ] Example 2: Mini-map of local area that shows player position
 - [ ] Pathfinding/Steering
   - [ ] Some entities in the game must exhibit non-trivial pathfinding and smooth steering behaviour
+  - Our Game's Pathfinding/Steering:
     - [ ] Example 1: Heat seeking missile smooth steers toward target entity
     - [ ] Example 2: Path-finding algorithm used to guide NPC toward player
 - [ ] Game Progression
