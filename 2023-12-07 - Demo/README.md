@@ -1,4 +1,4 @@
-# Project Demo Features Completed
+# Project Demo Completed Features
 
 Copy / paste the checklist from Project Specification into this section to indicate which features are complete in the demo
 
@@ -30,3 +30,4 @@ visualstudio/
 Notes:
 - This setup is exactly the same as your course assignments. You may start the project by copying an assignment into this directory and editing it. 
 - This entire submission should be no more than a few megabytes at most without the temporary vs files
+- Upon submission of the demo, please remove everything from this README besides the Completed Features section above
