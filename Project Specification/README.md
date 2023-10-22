@@ -123,6 +123,10 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
   - [ ] Sound Effects
   - [ ] Game Difficulty - Normal, Easy (deal 2x, take 0.5x damage), Hard (deal 0.5x, take 2x damage)
   - [ ] Rebind main gameplay scene keys – for example moving left / right, jump, shoot, etc
+- [ ] Assets
+  - [ ] You cannot use any assets that were given out in the course (levels / animations / music)
+  - [ ] You do not have to create assets from scratch, you can obtain them online
+  - [ ] If you obtained assets online, please cite the sources of the assets
 - [ ] Extras
   - [ ] 10% of the mark of the project is reserved for extra / new mechanics not specifically listed here.
   - Our Game's Extras:
@@ -142,4 +146,16 @@ Level Editor Required Functionality:
 - [ ] Any parameters of specific entities must be editable via the level editor. For example, this can include:
   - [ ] Whether NPCs block vision, movement, or neither
   - [ ] The hit points / damage of NPCs in the level
-  - [ ] The patrol points of moving tiles or NPCs 
+  - [ ] The patrol points of moving tiles or NPCs
+     
+## Project Report Video
+
+Your project must contain a video report / presentation (approx 10-15 minutes) containing the following information:
+- An overview of the game giving all details described in ‘Game Overview’ above, including asset sources
+- A description of all `extra features’ put into the game on top of those specifically asked for
+- Demonstrations of all game mechanics, with at least one full level playthrough. Also demo the level editor.
+- Detailed list of controls for the game, and instructions on how to play / what the objectives are
+- Notes on anything you tried to implement that did not end up working
+- This video must contain audio commentary / explanation, and be uploaded to YouTube
+- Post the report video URL to the main README for the project repo
+
