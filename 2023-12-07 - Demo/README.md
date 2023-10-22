@@ -1,6 +1,6 @@
 # Project Demo Features Completed
 
-Copy / paste the checklist from Project Specification into this section indicate which features are complete in the demo
+Copy / paste the checklist from Project Specification into this section to indicate which features are complete in the demo
 
 # Project Demo Instructions
 
