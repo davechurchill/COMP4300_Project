@@ -113,7 +113,12 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
   - Our Game's Parallax:
     - [ ] Example 1: Background layers used to indicate depth
 - [ ] User Interface / HUD
-  - [ ] Must have a user interface / HUD which displays information such as player health, ammo, game progression, status effects, NPC life bars, etc
+  - [ ] Must have a user interface / HUD which displays information such as:
+    - [ ] Player health
+    - [ ] Weapons and Ammo
+    - [ ] Game Progression
+    - [ ] Status Effects / Timers
+    - [ ] Other UI elements listed here
 - [ ] Audio
   - [ ] Must have background music during gameplay / menu scenes
   - [ ] Must have sound effects that occur for events such as getting hit, item pickup, ui selection, etc
