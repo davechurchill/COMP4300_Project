@@ -2,6 +2,8 @@
 
 The final project for COMP4300 can be done in groups of up to 4 people, and I highly recommend 4 people for the group. I understand that students do not always enjoy working in groups for school projects, but the reality is this is how you will be working for the rest of your careers, and the ability to work with others in a reasonable manner is factored into the grade for the course. 
 
+If there are any problems with your group members not doing their fair share of the work, you must see me immediately so that we can work out a solution while there is still time to do so. My observation over the years is that 99% of the time this happens, it is due to simple miscommunication between group members and can be solved with a few emails. If you wait until the final week before the project is due to come to me with group-related issues, there is probably nothing that can be done to help at that point. Everyone in this class is an adult, and part of the grade for this group project is your ability to work well with others to accomplish a shared goal.
+
 Despite the length and feature scope of this project, which can look pretty scary, most of it has actually been done already in the class assignments. You are allowed to copy any and all code done from your assignments as a starting point for the course project. In this way, almost every line of code that you write for Assignment 3 and 4 are also being written for the project as well.
 
 ## Project GitHub URL Submission
