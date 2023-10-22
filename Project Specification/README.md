@@ -19,7 +19,9 @@ As soon as you have formed a group for the project and created a GitHub repo, pl
 
 
 
-## Required Game Features / Gameplay Functionality (75%)
+## Required Game Features / Gameplay Functionality
+
+This section details all of the required functionality for your game. You can use it as a checklist to mark your game's progress by putting an [x] inside the square brackets in markup.
 
 ### Game Overview
   - Must be implemented using ECS architecture in C++ using only the SFML / ImGui libraries
