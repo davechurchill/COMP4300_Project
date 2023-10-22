@@ -1,5 +1,9 @@
 # COMP 4300 Project Specification
 
+The final project for COMP4300 can be done in groups of up to 4 people, and I highly recommend 4 people for the group. I understand that students do not always enjoy working in groups for school projects, but the reality is this is how you will be working for the rest of your careers, and the ability to work with others in a reasonable manner is factored into the grade for the course. 
+
+Despite the length and feature scope of this project, which can look pretty scary, most of it has actually been done already in the class assignments. You are allowed to copy any and all code done from your assignments as a starting point for the course project. In this way, almost every line of code that you write for Assignment 3 and 4 are also being written for the project as well.
+
 ## Project GitHub URL Submission
 
 As soon as you have formed a group for the project and created a GitHub repo, please submit your group GitHub repo URL to the `Project - GitHub Repo URL` assignment folder on D2L. This must be done before the due date of the Project Proposal. All due dates are specified in the folder name in repo root directory.
@@ -17,7 +21,7 @@ As soon as you have formed a group for the project and created a GitHub repo, pl
 - **YouTube Game Trailer** (5%)
   - A short trailer for your game that you can use in your future portfolio
 
-
+Important Note: This is a game programming course. The final project game is the most important part of the course being valued at 60% of the total course grade. Also, the course syllabus states that **you must pass the final project to pass the course**. You cannot get 100% in all the assignments, obtain 40% of the course grade, and then just submit a final project worth 10% to get a 50 in this class. You must submit a project which has the vast majority of the required functionality completed, there is no other way to pass this course. Every year, one or two groups take this warning lightly and put off doing the project until the last minute. The result of doing this will be you failing the course. Please take this project as seriously as any other final exam you have in any course.
 
 ## Required Game Features / Gameplay Functionality
 
