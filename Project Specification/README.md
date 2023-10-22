@@ -1,9 +1,16 @@
+# COMP 4300 Project Specification
 
-# Project Demo Feature Checklist
+## Project GitHub URL Submission
 
-Please indicate which features you have completed in your demo:
+As soon as you have formed a group for the project and created a GitHub repo, please submit your group GitHub repo URL to the `Group GitHub Repo URL` assignment folder on D2L. This must be done before the due date of the Project Proposal.
 
-- Game Overview
+## Project Proposal (5%)
+
+Your group must submit a project proposal by 11:59pm on the date listed on the proposal folder. 
+
+## Required Game Features / Gameplay Functionality (75%)
+
+### Game Overview
   - Must be implemented using ECS architecture in C++ using only the SFML / ImGui libraries
   - You may use any course code already written for assignments as the bases for your project game
   - Game Types Allowed: 2D Platformer, Top-Down Shooter, Action RPG, etc
