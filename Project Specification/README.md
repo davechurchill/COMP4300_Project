@@ -49,7 +49,7 @@ This section details all of the required functionality for your game. You can us
 Your game must contain all the following mechanics. You may copy / paste / edit this list for use in your proposal. Your final project submission must contain this list which each finished feature marked as completed.
 - [ ] Collisions
   - [ ] Rectangular bounding box collisions between some entities
-  - [ ] Some collision between player and level geometry (walls, etc)
+  - [ ] Some collision between player and level geometry (walls, tiles, etc)
 - [ ] Bullets / Weapons
   - [ ] At least 3 unique weapons that are usable by the player
   - [ ] Our Game's Weapons are:
