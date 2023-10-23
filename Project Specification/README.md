@@ -58,6 +58,13 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
 - [ ] Collisions
   - [ ] Rectangular bounding box collisions between some entities
   - [ ] Some collision between player and level geometry (walls, tiles, etc)
+- [ ] Movement
+  - [ ] Your game must contain at least 2 'movement abilitites' with a cooldown or resource cost
+  - Our Game's Movement Abilities:
+    - [ ] Example 1: Double Jump
+    - [ ] Example 2: Dash (with invulnerability)
+    - [ ] Example 3: Wall Jump
+    - [ ] Example 4: Jetpack (with fuel)
 - [ ] Bullets / Weapons
   - [ ] At least 3 unique weapons that are usable by the player
   - [ ] Our Game's Weapons are:
