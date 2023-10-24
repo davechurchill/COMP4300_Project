@@ -98,8 +98,8 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
     - [ ] Example 2: Sprint Potion
     - [ ] Example 3: Teleport Scroll
 - [ ] Ray Casting / Visibility
-  - [ ] Ray casting calculations should be used in some form in the game for lighting or visibility
-  - Our Game's Ray Casting Functionality is:
+  - [ ] Ray casting calculations should be used in some form in the game for lighting AND visibility calculations
+  - Our Game's Ray Casting Functionality are (one lighting, one visibility):
     - [ ] Example 1: Turret fires when player enters line of sight
     - [ ] Example 2: Player torch illuminates areas within line of sight
 - [ ] Gravity / Acceleration
