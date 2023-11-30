@@ -7,7 +7,15 @@ Copy / paste the checklist from Project Specification into this section to indic
 For the project initial demo, you must record a narrated 3-5 minute video showing your project progress so far. The following features must be present in the demo:
 
 - A functioning level editor using ImGui. Does not have to be 100% complete, but you must be able to create / load / save levels.
+  - Show the ability to edit, create, save, and load a level (if possible)
 - Most working gameplay mechanics
+  - Record a few minutes of gameplay footage where you narrate the game mechanics being displayed
+  - Do not waste any video times with re-trying things, failures, or long stumbles in speech
+  - Pay more attention to any new mechanics you have implemented that are not present in the assignments
+  - This is YOUR VIDEO. I don't know what's fully working or not, so cherry pick the best parts. If your project crashes sometimes, just leave that out of the video.
+  - I will probably not be looking at the demo code unless something is a) horribly broken, or b) suspiciously overdone
+
+***
 
 This folder contains the following 3 directories:
 
