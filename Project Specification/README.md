@@ -170,7 +170,7 @@ Level Editor Required Functionality:
      
 ## Project Report Video
 
-Your project must contain a video report / presentation (approx 10-15 minutes) containing the following information:
+Your project must contain a video report / presentation (approx 15-20 minutes) containing the following information:
 - An overview of the game giving all details described in ‘Game Overview’ above, including asset sources
 - A description of all `extra features’ put into the game on top of those specifically asked for
 - Demonstrations of all game mechanics, with at least one full level playthrough. Also demo the level editor.
