@@ -53,7 +53,7 @@ This section details all of the required functionality for your game. You can us
 - [ ] Level editor scene that implements level editor functionality
 - [ ] A ‘game over’ scene with some sort of animation and game over / credits
 
-### Required Gameplay and Mechanics
+### Required Gameplay and Mechanics (From Assignments)
 Your game must contain all the following mechanics. You may copy / paste / edit this list for use in your proposal. Your final project submission must contain this list which each finished feature marked as completed.
 - [ ] Collisions
   - [ ] Rectangular bounding box collisions between some entities
@@ -77,19 +77,10 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
   - [ ] At least 3 unique non-player characters in the game that act as enemies or allies
   - [ ] Must contain basic AI such as path-finding / shooting / patrolling / battling with the player
   - [ ] Each NPC has a unique weapon or method for interacting with the player
-- [ ] Moving Tiles
-  - [ ] Must include some part of the level which moves, such as platforms / elevators
 - [ ] Hit Points / Damage
   - [ ] Player / enemies in the game should have hit points (life) and take damage / die
   - [ ] Invincibility frames must be implemented for all entities that take damage
   - [ ] Enemy HP levels must be displayed to the user in some way
-- [ ] Status Effects
-  - [ ] Must contain at least 3 separate status effects
-  - [ ] Status effects are obtainable in some way (item, collision, ability, etc) which alter the gameplay for a limited amount of time
-  - Our Game's Status Effects are:
-    - [ ] Example 1: Speed Potion
-    - [ ] Example 2: Quad Damage
-    - [ ] Example 3: Invincibility Star
 - [ ] Objects / Inventory
   - [ ] At least 3 different items should be obtainable during the game via interaction
   - [ ] UI should display inventory of these items, allow for their use after obtaining
@@ -114,19 +105,6 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
   - Our Game's Pathfinding/Steering:
     - [ ] Example 1: Heat seeking missile smooth steers toward target entity
     - [ ] Example 2: Path-finding algorithm used to guide NPC toward player
-- [ ] Game Progression
-  - [ ] Overworld map should somehow lock or unlock game progression based on levels completed
-  - [ ] You must have the ability to save and load your game progress somehow to a file
-- [ ] Shaders
-  - [ ] At least 3 shaders must be used to alter entity appearance in a meaningful way
-  - Our Game's Shaders:
-    - [ ] Example 1: Entity turns grayscale when frozen 
-    - [ ] Example 2: Glowing green outline for radiation
-    - [ ] Example 3: Alternating colors for Mario star-like effect
-- [ ] Parallax
-  - [ ] Must incorporate parallax via multiple background layers in some way in your game
-  - Our Game's Parallax:
-    - [ ] Example 1: Background layers used to indicate depth
 - [ ] User Interface / HUD
   - [ ] Must have a user interface / HUD which displays information such as:
     - [ ] Player health
@@ -137,16 +115,39 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
 - [ ] Audio
   - [ ] Must have background music during gameplay / menu scenes
   - [ ] Must have sound effects that occur for events such as getting hit, item pickup, ui selection, etc
+- [ ] Assets
+  - [ ] You cannot use any assets that were given out in the course (levels / animations / music)
+  - [ ] You do not have to create assets from scratch, you can obtain them online
+  - [ ] If you obtained assets online, please cite the sources of the assets
+### Required Gameplay and Mechanics (Newly Implemented)
 - [ ] Options
   - [ ] Must have an options menu which allows you to change the following settings:
   - [ ] Music Volume
   - [ ] Sound Effects
   - [ ] Game Difficulty - Normal, Easy (deal 2x, take 0.5x damage), Hard (deal 0.5x, take 2x damage)
   - [ ] Rebind main gameplay scene keys – for example moving left / right, jump, shoot, etc
-- [ ] Assets
-  - [ ] You cannot use any assets that were given out in the course (levels / animations / music)
-  - [ ] You do not have to create assets from scratch, you can obtain them online
-  - [ ] If you obtained assets online, please cite the sources of the assets
+- [ ] Game Progression
+  - [ ] Overworld map should somehow lock or unlock game progression based on levels completed
+  - [ ] You must have the ability to save and load your game progress somehow to a file
+- [ ] Status Effects
+  - [ ] Must contain at least 3 separate status effects
+  - [ ] Status effects are obtainable in some way (item, collision, ability, etc) which alter the gameplay for a limited amount of time
+  - Our Game's Status Effects are:
+    - [ ] Example 1: Speed Potion
+    - [ ] Example 2: Quad Damage
+    - [ ] Example 3: Invincibility Star
+- [ ] Moving Tiles
+  - [ ] Must include some part of the level which moves, such as platforms / elevators
+- [ ] Shaders
+  - [ ] At least 3 shaders must be used to alter entity appearance in a meaningful way
+  - Our Game's Shaders:
+    - [ ] Example 1: Entity turns grayscale when frozen 
+    - [ ] Example 2: Glowing green outline for radiation
+    - [ ] Example 3: Alternating colors for Mario star-like effect
+- [ ] Parallax
+  - [ ] Must incorporate parallax via multiple background layers in some way in your game
+  - Our Game's Parallax:
+    - [ ] Example 1: Background layers used to indicate depth
 - [ ] Extras
   - [ ] 10% of the mark of the project is reserved for extra / new mechanics not specifically listed here.
   - Our Game's Extras:
