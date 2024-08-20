@@ -120,6 +120,7 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
   - [ ] You do not have to create assets from scratch, you can obtain them online
   - [ ] If you obtained assets online, please cite the sources of the assets
 ### Required Gameplay and Mechanics (Newly Implemented)
+All of the previously listed mechanics were completed in Assignments, so you should just be able to re-use that code for the Project. The following new mechanics will be where the vast majority of marks are given for the project:
 - [ ] Options
   - [ ] Must have an options menu which allows you to change the following settings:
   - [ ] Music Volume
