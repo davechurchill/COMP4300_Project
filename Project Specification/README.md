@@ -134,6 +134,7 @@ All of the previously listed mechanics were completed in Assignments, so you sho
     - [ ] Game Progression
     - [ ] Status Effects / Timers
     - [ ] Other UI elements listed here
+  - Note: Must not be simple ImGui debug GUI, must look a little bit polished and on-theme for the game
 - [ ] Moving Tiles
   - [ ] Must include some part of the level which moves, such as platforms / elevators
 - [ ] Shaders
