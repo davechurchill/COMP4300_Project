@@ -73,6 +73,8 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
     - [ ] Example 1: Boomerang (returns when thrown)
     - [ ] Example 2: Shotgun (several bullets fired in a spread)
     - [ ] Example 3: Sword (melee weapon)
+    - [ ] Example 4: Grenage (thrown then explodes later)
+    - [ ] Example 5: Shrink Ray (makes things smaller)
   - [ ] Weapons must be swappable during gameplay via hotkey or ui element
   - [ ] At least one weapon must consume ammo obtainable during gameplay
   - Note: Weapons do not have to be standard 'killing' weapons. You could 'shoot' treats to animals, or have a 'bomb' that makes everyone dance when it 'explodes'. As long as they are 3 separate unique ways of interacting with the environment and NPCs.
