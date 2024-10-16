@@ -102,11 +102,6 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
   - Our Game's Camera Views:
     - [ ] Example 1: Standard main camera view of gameplay
     - [ ] Example 2: Mini-map of local area that shows player position
-- [ ] Pathfinding/Steering
-  - [ ] Some entities in the game must exhibit non-trivial pathfinding and smooth steering behaviour
-  - Our Game's Pathfinding/Steering:
-    - [ ] Example 1: Heat seeking missile smooth steers toward target entity
-    - [ ] Example 2: Path-finding algorithm used to guide NPC toward player
 - [ ] Audio
   - [ ] Must have background music during gameplay / menu scenes
   - [ ] Must have sound effects that occur for events such as getting hit, item pickup, ui selection, etc
@@ -151,6 +146,11 @@ All of the previously listed mechanics were completed in Assignments, so you sho
   - [ ] Must incorporate parallax via multiple background layers in some way in your game
   - Our Game's Parallax:
     - [ ] Example 1: Background layers used to indicate depth
+- [ ] Pathfinding/Steering
+  - [ ] Some entities in the game must exhibit non-trivial pathfinding or smooth-steering behaviour
+  - Our Game's Pathfinding/Steering:
+    - [ ] Example 1: Heat seeking missile smooth steers toward target entity
+    - [ ] Example 2: Path-finding algorithm used to guide NPC toward player  
 - [ ] Extras
   - [ ] 10% of the mark of the project is reserved for extra / new mechanics not specifically listed here.
   - Our Game's Extras:
