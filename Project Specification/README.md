@@ -35,7 +35,7 @@ This section details all of the required functionality for your game. You can us
   - Must be implemented using ECS architecture in C++ using only the SFML / ImGui libraries
   - You may use any course code already written for assignments as the bases for your project game
   - Game Types Allowed:
-    - 2D Platformer (MegaMan, Contra, Celeste, Shovel Knight)
+    - Platformer (MegaMan, Contra, Celeste, Shovel Knight)
     - Top-Down Shooter (Hotline Miami,  Brotato, Vampire Survivors)
     - Action RPG (Diablo, Zelda, Path of Exile, etc)
   - No assets or levels may be re-used from the class assignments, and gameplay must be significantly different from assignments
