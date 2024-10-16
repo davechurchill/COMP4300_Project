@@ -166,6 +166,7 @@ All of the previously listed mechanics were completed in Assignments, so you sho
     - [ ] Example 3: Fancy NPC AI that goes above and beyond
     - [ ] Example 4: Particle System as described in class
     - [ ] Example 5: Dialog system lets you talk to NPCs like old RPG game
+    - [ ] Example 6: Experience / leveling up system which gives stats or abilities
 
 ## Level Editor
 - Your game must contain a level editor similar to the one found in the MegaManMaker / Super Mario Maker game
