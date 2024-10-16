@@ -159,7 +159,7 @@ All of the previously listed mechanics were completed in Assignments, so you sho
     - [ ] Example 1: Heat seeking missile smooth steers toward target entity
     - [ ] Example 2: Path-finding algorithm used to guide NPC toward player  
 - [ ] Extras
-  - [ ] 10% of the mark of the project is reserved for extra / new mechanics not specifically listed here.
+  - [ ] 10% of the mark of the project is reserved for at least one major extra / new mechanics not specifically listed above.
   - Our Game's Extras:
     - [ ] Example 1: Really complicated lighting effect (full room lighting with shadows, etc)
     - [ ] Example 2: Currency system that allows you to buy from shops in-game
