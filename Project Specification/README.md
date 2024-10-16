@@ -105,13 +105,6 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
   - Our Game's Pathfinding/Steering:
     - [ ] Example 1: Heat seeking missile smooth steers toward target entity
     - [ ] Example 2: Path-finding algorithm used to guide NPC toward player
-- [ ] User Interface / HUD
-  - [ ] Must have a user interface / HUD which displays information such as:
-    - [ ] Player health
-    - [ ] Weapons and Ammo
-    - [ ] Game Progression
-    - [ ] Status Effects / Timers
-    - [ ] Other UI elements listed here
 - [ ] Audio
   - [ ] Must have background music during gameplay / menu scenes
   - [ ] Must have sound effects that occur for events such as getting hit, item pickup, ui selection, etc
@@ -137,6 +130,13 @@ All of the previously listed mechanics were completed in Assignments, so you sho
     - [ ] Example 1: Speed Potion
     - [ ] Example 2: Quad Damage
     - [ ] Example 3: Invincibility Star
+- [ ] User Interface / HUD
+  - [ ] Must have a user interface / HUD which displays information such as:
+    - [ ] Player health
+    - [ ] Weapons and Ammo
+    - [ ] Game Progression
+    - [ ] Status Effects / Timers
+    - [ ] Other UI elements listed here
 - [ ] Moving Tiles
   - [ ] Must include some part of the level which moves, such as platforms / elevators
 - [ ] Shaders
