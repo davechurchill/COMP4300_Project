@@ -34,9 +34,12 @@ This section details all of the required functionality for your game. You can us
 ### Game Overview
   - Must be implemented using ECS architecture in C++ using only the SFML / ImGui libraries
   - You may use any course code already written for assignments as the bases for your project game
-  - Game Types Allowed: 2D Platformer, Top-Down Shooter, Action RPG, etc
-    - If 2D platformer is chosen, it must be significantly different from Assignment 3
-    - No assets or levels may be re-used from the class assignments
+  - Game Types Allowed:
+    - 2D Platformer (MegaMan, Contra, Celeste, Shovel Knight)
+      - If 2D platformer is chosen, it must be significantly different from Assignment 3
+    - Top-Down Shooter (Hotline Miami,  Brotato, Vampire Survivors)
+    - Action RPG (Diablo, Zelda, Path of Exile, etc)
+  - No assets or levels may be re-used from the class assignments
   - Must contain at least 3 pre-built levels, and have a separate 'final boss' battle level
   -	Must contain a custom menu that allows the player to play the game, edit levels, or select options
   - Must contain some sort of in-game menu (item selection, inventory, options, etc)
