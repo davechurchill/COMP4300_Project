@@ -75,7 +75,7 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
     - [ ] Example 3: Sword (melee weapon)
   - [ ] Weapons must be swappable during gameplay via hotkey or ui element
   - [ ] At least one weapon must consume ammo obtainable during gameplay
-  - Note: Weapons do not have to be standard 'killing' weapons. You could 'shoot' treats to animals, or have a 'bomb' that makes everyone dance when it 'explodes'. As long as they are 3 separate unique ways of interacting with the environment and NPCs in the game.
+  - Note: Weapons do not have to be standard 'killing' weapons. You could 'shoot' treats to animals, or have a 'bomb' that makes everyone dance when it 'explodes'. As long as they are 3 separate unique ways of interacting with the environment and NPCs.
 - [ ] NPCs
   - [ ] At least 3 unique non-player characters in the game that act as enemies or allies
   - [ ] Must contain basic AI such as path-finding / shooting / patrolling / battling with the player
