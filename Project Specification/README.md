@@ -90,11 +90,10 @@ Your game must contain all the following mechanics. You may copy / paste / edit 
     - [ ] Example 1: Health Pack (used to regain hp)
     - [ ] Example 2: Sprint Potion
     - [ ] Example 3: Teleport Scroll
-- [ ] Ray Casting / Visibility
-  - [ ] Ray casting calculations should be used in some form in the game for lighting AND visibility calculations
-  - Our Game's Ray Casting Functionality are (one lighting, one visibility):
+- [ ] Ray Casting for Visibility
+  - [ ] Ray casting calculations should be used for visibility calculations
     - [ ] Example 1: Turret fires when player enters line of sight
-    - [ ] Example 2: Player torch illuminates areas within line of sight
+    - [ ] Example 2: NPC aggros player when it enters line of sight
 - [ ] Gravity / Acceleration
   - [ ] There must be some form of gravity / attractor in the game that applies acceleration to the player
 - [ ] Camera / World View
@@ -147,6 +146,10 @@ All of the previously listed mechanics were completed in Assignments, so you sho
   - [ ] Must incorporate parallax via multiple background layers in some way in your game
   - Our Game's Parallax:
     - [ ] Example 1: Background layers used to indicate depth
+- [ ] Ray Casting for Simple Lighting Effect
+  - Our Game's Lighting Effect:
+    - [ ] Example 1: Torch illuminates area around player
+    - [ ] Example 2: Flashlight sends 'light' in cone in front of player
 - [ ] Pathfinding/Steering
   - [ ] Some entities in the game must exhibit non-trivial pathfinding or smooth-steering behaviour
   - Our Game's Pathfinding/Steering:
@@ -155,9 +158,11 @@ All of the previously listed mechanics were completed in Assignments, so you sho
 - [ ] Extras
   - [ ] 10% of the mark of the project is reserved for extra / new mechanics not specifically listed here.
   - Our Game's Extras:
-    - [ ] Example 1: Really complicated lighting effect
+    - [ ] Example 1: Really complicated lighting effect (full room lighting with shadows, etc)
     - [ ] Example 2: Currency system that allows you to buy from shops in-game
     - [ ] Example 3: Fancy NPC AI that goes above and beyond
+    - [ ] Example 4: Particle System as described in class
+    - [ ] Example 5: Dialog system lets you talk to NPCs like old RPG game
 
 ## Level Editor
 - Your game must contain a level editor similar to the one found in the MegaManMaker / Super Mario Maker game
