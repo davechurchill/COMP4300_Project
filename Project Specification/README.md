@@ -34,7 +34,7 @@ This section details all of the required functionality for your game. You can us
 ### Game Overview
   - Must be implemented using ECS architecture in C++ using only the SFML / ImGui libraries
   - You may use any course code already written for assignments as the bases for your project game
-  - Game Types Allowed:
+  - Game Type Suggestions:
     - Platformer (MegaMan, Contra, Celeste, Shovel Knight)
     - Top-Down Shooter (Hotline Miami,  Enter the Gungeon, Brotato, Vampire Survivors)
     - Action RPG (Diablo, Zelda, Binding of Isaac, Path of Exile, etc)
