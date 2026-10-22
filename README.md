@@ -18,7 +18,6 @@ Project Group Members:
 
 Project Videos:
 
-* Project Demo: YouTube URL
 * Project Trailer: YouTube URL
 * Project Presentation: YouTube URL
 
