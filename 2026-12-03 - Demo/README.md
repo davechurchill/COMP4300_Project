@@ -10,7 +10,7 @@ The following features must be present in the demo:
 
 - The assets and style of your game, the general idea / story
 - A functioning level editor using ImGui. Does not have to be 100% complete, but you must be able to create / load / save levels.
-  - Show the ability to edit, create, save, and load a level (if possible)
+  - Show the ability to edit, create, save, and load a level 
 - Most working gameplay mechanics and at least one level you have made
   - Pay more attention to any new mechanics you have implemented that are not present in the assignments
 - I will not be looking at any of the demo code, don't show me broken things
