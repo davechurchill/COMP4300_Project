@@ -15,7 +15,7 @@ As soon as you have formed a group for the project and created a GitHub repo, pl
 - **Project Proposal** (5%)
   - A proposal submitted in order to judge the scope of the project
 - **Project Demo** (10%)
-  - A short demo gameplay video as a milestone to judge your progress on the project 
+  - A short demo as a milestone to judge your progress on the project 
 - **Project Code / Gameplay** (60%)
   - The final submission of your project's code and gameplay that will be graded by prof / TA
 - **Project Report Video** (20%)
